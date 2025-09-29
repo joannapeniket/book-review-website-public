@@ -1,6 +1,6 @@
 # Portfolio Project
 
-A personal portfolio website built with Next.js and deployed on Vercel.
+A book review website built with Next.js and deployed on Vercel.
 
 ## Live Demo
 [View Live Site](https://portfolio-project-gules-nine.vercel.app)
